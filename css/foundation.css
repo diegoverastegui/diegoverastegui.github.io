@@ -43,7 +43,7 @@ body {
   color: #424b51;
   padding: 0;
   margin: 0;
-  font-family: "lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-weight: normal;
   font-style: normal;
   line-height: 1.5;
@@ -3439,7 +3439,7 @@ a {
 
 /* Default paragraph styles */
 p {
-  font-family: "lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-weight: normal;
   font-size: 1rem;
   line-height: 1.6;
