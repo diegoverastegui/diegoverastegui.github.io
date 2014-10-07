@@ -4686,6 +4686,12 @@ color: white;
   .inner-wrap:after {
     clear: both; }
 
+
+    .inner-wrap section {
+      padding: 90px 0;
+}
+
+
 .tab-bar {
   -webkit-backface-visibility: hidden;
   background: #333333;
