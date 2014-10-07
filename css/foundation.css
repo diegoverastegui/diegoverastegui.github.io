@@ -4235,6 +4235,7 @@ dialog {
 
 .clearing-container {
     background: url(http://4.bp.blogspot.com/-4wwqhIIZBLc/UybcLVHvgAI/AAAAAAAABFw/ka-mGm7Yqu8/s1600/The_default_background_of_Ubuntu_14.04.jpg) 50% 0 no-repeat fixed;
+  background-size: cover;
   position: relative;
   z-index: 998;
   height: 100%;
