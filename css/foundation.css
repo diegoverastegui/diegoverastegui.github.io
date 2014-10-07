@@ -4686,12 +4686,6 @@ color: white;
   .inner-wrap:after {
     clear: both; }
 
-
-    .inner-wrap section {
-      padding: 90px 0;
-}
-
-
 .tab-bar {
   -webkit-backface-visibility: hidden;
   background: #333333;
@@ -6289,4 +6283,8 @@ li.portafolio img:hover {
 
 .portada h1{
   text-align: center;
+}
+
+#section-contenido {
+  padding: 50px 0;
 }
