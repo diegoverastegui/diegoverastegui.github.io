@@ -6276,3 +6276,7 @@ li.portafolio img:hover {
   text-align: center;
   transform: rotateY(180deg);
 }
+
+#fondomenu{
+  background: rgba(0, 0, 0, 0.65);
+}
