@@ -1763,7 +1763,7 @@ meta.foundation-mq-topbar {
 padding-top: 1em;
   line-height: 45px;
   position: relative;
-  background: #333333;
+  /*background: #333333;*/
   margin-bottom: 0; }
   .top-bar ul {
     margin-bottom: 0;
@@ -1843,7 +1843,7 @@ padding-top: 1em;
     height: auto;
     background: transparent; }
     .top-bar.expanded .title-area {
-      background: #333333; }
+      /*background: #333333;*/ }
     .top-bar.expanded .toggle-topbar a {
       color: #888888; }
       .top-bar.expanded .toggle-topbar a::after {
@@ -1868,7 +1868,7 @@ padding-top: 1em;
     height: 1px;
     width: 100%; }
   .top-bar-section ul li {
-    background: #333333; }
+    /*background: #333333;*/ }
     .top-bar-section ul li > a {
       display: block;
       width: 100%;
