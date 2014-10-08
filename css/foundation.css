@@ -6305,3 +6305,16 @@ li.portafolio img:hover {
   font-size: 0.8rem;
 }
 
+#video_background {
+position: absolute;
+bottom: 0px;
+right: 0px;
+min-width: 100%;
+min-height: 100%;
+width: auto;
+height: auto;
+z-index: 0;
+overflow: hidden;
+background-color: #111111;
+}
+
