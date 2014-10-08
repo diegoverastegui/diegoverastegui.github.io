@@ -4236,6 +4236,7 @@ dialog {
 .clearing-container {
     background: url(http://41.media.tumblr.com/tumblr_lz1lmgEfFQ1r9tee7o1_1280.jpg) 50% 0 no-repeat fixed;
   background-size:cover;
+  background-position: center;
   position: relative;
   z-index: 998;
   height: 100%;
@@ -6298,5 +6299,9 @@ li.portafolio img:hover {
 
 .section-contacto{
   background: white;
+}
+
+.piepagina{
+  font-size: 0.8rem;
 }
 
