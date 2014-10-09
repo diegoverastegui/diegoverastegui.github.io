@@ -6306,9 +6306,6 @@ li.portafolio img:hover {
 
 #centrardiv {
 position: relative;
-height: 100%;
-margin-top: auto;
-margin-bottom: auto;
-top: 40%;
+top: 30%;
 }
 
