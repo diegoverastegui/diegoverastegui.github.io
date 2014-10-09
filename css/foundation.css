@@ -4234,7 +4234,7 @@ dialog {
     display: block; }
 
 .clearing-container {
-    background: url(http://riotdesign.eu/assets/img/home-slider/bg-goodssolutions.jpg) 50% 0 no-repeat fixed;
+    background: url('') 50% 0 no-repeat fixed;
   background-size:cover;
   position: relative;
   z-index: 998;
