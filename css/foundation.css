@@ -4234,7 +4234,7 @@ dialog {
     display: block; }
 
 .clearing-container {
-    background: url(http://41.media.tumblr.com/tumblr_lz1lmgEfFQ1r9tee7o1_1280.jpg) 50% 0 no-repeat fixed;
+    background: url(http://riotdesign.eu/assets/img/home-slider/bg-goodssolutions.jpg) 50% 0 no-repeat fixed;
   background-size:cover;
   position: relative;
   z-index: 998;
@@ -6304,16 +6304,11 @@ li.portafolio img:hover {
   font-size: 0.8rem;
 }
 
-#video_background {
-position: absolute;
-bottom: 0px;
-right: 0px;
-min-width: 100%;
-min-height: 100%;
-width: auto;
-height: auto;
-z-index: 0;
-overflow: hidden;
-background-color: #111111;
+#centrardiv {
+position: relative;
+height: 100%;
+margin-top: auto;
+margin-bottom: auto;
+top: 40%;
 }
 
