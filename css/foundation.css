@@ -6323,6 +6323,6 @@ li.portafolio img:hover {
   margin: 0 auto;
   }
 
-@media only screen and (min-width: 100px) and (max-width: 959px) {  
-                     .fondoprincipal         { visibility: visible; display:inline; }
+@media only screen and (min-width: 100px) and (max-width: 1280px) {  
+                     .fondoprincipal         { visibility:visible; display:inline; }
 }
