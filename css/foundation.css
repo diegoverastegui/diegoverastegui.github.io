@@ -4238,6 +4238,7 @@ dialog {
   background-size:cover;
   position: relative;
   z-index: 998;
+  height: 100%;
   width: 100%;
   overflow: hidden;
   margin: 0 auto;
