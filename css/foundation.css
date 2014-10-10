@@ -4242,7 +4242,6 @@ dialog {
   width: 100%;
   overflow: hidden;
   margin: 0 auto;
-  visibility: visible;
   }
 .clearing-container article {
 text-align: center;
@@ -6308,22 +6307,20 @@ li.portafolio img:hover {
 #centrardiv {
 }
 
-.logo         { visibility: hidden; display:none; }
-
-@media only screen and (min-width: 100px) and (max-width: 959px) {  
-                     .logo         { visibility: visible; display:inline }
-}
-
 .fondoprincipal {
   background: url(http://cde.3.elcomercio.pe/ima/0/0/9/7/4/974998/base_image.jpg) 50% 0 no-repeat fixed;
   background-size:cover;
   position: relative;
   z-index: 998;
   height: 100%;
+  width: 100%;
   overflow: hidden;
   margin: 0 auto;
   }
 
-@media only screen and (min-width: 100px) and (max-width: 1280px) {  
-                     .fondoprincipal         { visibility:visible; display:inline; }
+
+@media only screen and (min-width: 100px) and (max-width: 959px) {  
+                     .fondoprincipal         { visibility: visible; display:inline }
 }
+
+
