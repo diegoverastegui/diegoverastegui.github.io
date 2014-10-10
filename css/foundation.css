@@ -6307,3 +6307,8 @@ li.portafolio img:hover {
 #centrardiv {
 }
 
+.logo         { visibility: hidden; display:none; }
+
+@media only screen and (min-width: 100px) and (max-width: 959px) {  
+                     .logo         { visibility: visible; display:inline }
+}
