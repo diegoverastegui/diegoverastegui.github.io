@@ -4234,7 +4234,7 @@ dialog {
     display: block; }
 
 .clearing-container {
-    background: url(http://riotdesign.eu/assets/img/home-slider/bg-goodssolutions.jpg) 50% 0 no-repeat fixed;
+  background: url(http://riotdesign.eu/assets/img/home-slider/bg-goodssolutions.jpg) 50% 0 no-repeat fixed;
   background-size:cover;
   position: relative;
   z-index: 998;
@@ -6313,5 +6313,17 @@ li.portafolio img:hover {
                      .logo         { visibility: visible; display:inline }
 }
 
+.fondoprincipal {
+  background: url(http://riotdesign.eu/assets/img/home-slider/bg-goodssolutions.jpg) 50% 0 no-repeat fixed;
+  background-size:cover;
+  position: relative;
+  z-index: 998;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+  }
 
-
+@media only screen and (min-width: 100px) and (max-width: 959px) {  
+                     .fondoprincipal         { display:inline; }
+}
