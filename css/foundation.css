@@ -6318,11 +6318,11 @@ li.portafolio img:hover {
   background-size:cover;
   position: relative;
   z-index: 998;
+  height: 100%;
   overflow: hidden;
   margin: 0 auto;
-  visibility: hidden;
   }
 
-@media only screen and (min-width: 100px) and (max-width: 2560px) {  
+@media only screen and (min-width: 100px) and (max-width: 959px) {  
                      .fondoprincipal         { visibility: visible; display:inline; }
 }
