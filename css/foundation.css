@@ -6313,7 +6313,5 @@ li.portafolio img:hover {
                      .logo         { visibility: visible; display:inline }
 }
 
-@media only screen and (min-width: 400px) and (max-width: 1440px) {  
-.clearing-container{visibility:hidden; display:inline }
-}
+
 
