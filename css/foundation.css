@@ -4242,6 +4242,7 @@ dialog {
   width: 100%;
   overflow: hidden;
   margin: 0 auto;
+  visibility: visible;
   }
 .clearing-container article {
 text-align: center;
