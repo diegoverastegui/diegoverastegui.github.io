@@ -4236,7 +4236,7 @@ dialog {
 .clearing-container {
   background: url(http://riotdesign.eu/assets/img/home-slider/bg-goodssolutions.jpg) 50% 0 no-repeat fixed;
   background-size:cover;
-  position: fixed;
+  position:relative;
   z-index: 998;
   height: 100%;
   width: 100%;
@@ -6320,8 +6320,9 @@ li.portafolio img:hover {
   z-index: 998;
   overflow: hidden;
   margin: 0 auto;
+  visibility: hidden;
   }
 
 @media only screen and (min-width: 600px) and (max-width: 2560px) {  
-                     .fondoprincipal         { display:inline; }
+                     .fondoprincipal         { visibility: visible; display:inline; }
 }
