@@ -6286,12 +6286,12 @@ li.portafolio img:hover {
   display: table-cell;
   vertical-align: middle;
   height: 200px;
+    margin-top: 50%;
 
 }
 
 .portada h1{
   text-align: center;
-  margin-top: 50%;
 }
 
 #section-contenido {
