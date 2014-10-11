@@ -6280,10 +6280,18 @@ li.portafolio img:hover {
 
 #fondomenu{
   background: rgba(0, 0, 0, 0.7);
+
+}
+.portada{
+  display: table-cell;
+  vertical-align: middle;
+  height: 200px;
+
 }
 
 .portada h1{
   text-align: center;
+  margin-top: 50%;
 }
 
 #section-contenido {
