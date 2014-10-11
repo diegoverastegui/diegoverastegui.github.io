@@ -6292,6 +6292,11 @@ li.portafolio img:hover {
   text-align: center;
 }
 
+.portada h5{
+  text-align: center;
+  color: white;
+}
+
 #section-contenido {
   padding: 50px 0;
 }
