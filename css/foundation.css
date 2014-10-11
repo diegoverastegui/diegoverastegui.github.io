@@ -6285,9 +6285,7 @@ li.portafolio img:hover {
 .portada{
   display: table-cell;
   vertical-align: middle;
-  height: 200px;
-    margin-top: 50%;
-
+  padding-bottom: 4rem;
 }
 
 .portada h1{
