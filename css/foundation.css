@@ -6332,4 +6332,7 @@ li.portafolio img:hover {
                      .fondoprincipal         { visibility: visible; display:inline }
 }
 
-
+#displaytable{
+  height: 100%;
+display: table;
+}
