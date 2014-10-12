@@ -6306,7 +6306,7 @@ padding: 10px 0;
 }
 
 #section-contenido {
-  padding: 50px 0;
+  padding: 90px 0;
 }
 
 .section-equipo{
@@ -6333,6 +6333,10 @@ padding: 10px 0;
 .section-identidadgrafica{
     text-align: left;
     background-color: white;
+}
+
+.section-marketing{
+  background: #FAFAFA;
 }
 
 .piepagina{
