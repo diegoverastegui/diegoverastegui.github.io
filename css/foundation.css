@@ -6360,7 +6360,7 @@ padding: 10px 0;
   }
 
 
-@media only screen and (min-width: 100px) and (max-width: 959px) {  
+@media only screen and (min-width: 100px) and (max-width: 500px) {  
                      .fondoprincipal         { visibility: visible; display:inline }
 }
 
