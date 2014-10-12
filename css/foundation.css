@@ -6227,8 +6227,8 @@ background-color: #999999;
 
 p {
   font-family: "Lato", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-  font-weight: normal;
-  font-size: 1rem;
+  font-weight: 200;
+  font-size: 1.2rem;
   line-height: 1.6;
   margin-bottom: 1.25rem;
   text-rendering: optimizeLegibility;
