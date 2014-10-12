@@ -6357,11 +6357,10 @@ padding: 10px 0;
   width: 100%;
   overflow: hidden;
   margin: 0 auto;
-  visibility: hidden;
   }
 
 
-@media only screen and (min-width: 100px) and (max-width: 1000x) {  
+@media only screen and (min-width: 100px) and (max-width: 1059px) {  
                      .fondoprincipal         { visibility: visible; display:inline }
 }
 
