@@ -3459,7 +3459,7 @@ p {
 h1, h2, h3, h4, h5, h6 {
   font-family: "museo", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
 font-style: normal;
-font-weight: 300;
+font-weight: 100;
   font-weight: normal;
   color: #424b51;
   text-rendering: optimizeLegibility;
@@ -6314,6 +6314,7 @@ padding: 10px 0;
 }
 
 .section-equipo{
+  text-align: center;
 }
 
 .section-contacto{
