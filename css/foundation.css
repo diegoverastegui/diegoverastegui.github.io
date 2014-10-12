@@ -1097,9 +1097,9 @@ button, .button {
   -webkit-border-radius: 0;
   display: inline-block;
   padding-top: 1rem;
-  padding-right: 1.5rem;
-  padding-bottom: 1.0625rem;
-  padding-left: 1.5rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 1rem;
   font-size: 1rem;
   background-color: white;
   border-color: #007095;
@@ -6288,16 +6288,21 @@ li.portafolio img:hover {
   display: table-cell;
   vertical-align: middle;
   padding-bottom: 6rem;
+  text-align: center;
 }
 
 .portada h1{
   text-align: center;
 }
 
-.portada h5{
+.portada p{
   text-align: center;
   color: white;
-  
+border-top: solid 1px #fff;
+border-top: solid 1px rgba (255, 255, 255, 0.4);
+margin: 6px auto;
+display: inline-block;
+padding: 10px 0;
 }
 
 #section-contenido {
@@ -6313,6 +6318,21 @@ li.portafolio img:hover {
 
 .section-contacto{
   background: white;
+}
+
+.section-desarrolloweb{
+  text-align: left;
+  background: url(http://riotdesign.eu/assets/img/webdev-bg.png);
+  background-position: center;
+    color: white;
+}
+.section-desarrolloweb h2{
+    color: white;
+}
+
+.section-identidadgrafica{
+    text-align: left;
+    background-color: white;
 }
 
 .piepagina{
@@ -6342,4 +6362,8 @@ li.portafolio img:hover {
   height: 100%;
   display: table;
 
+}
+
+.section-portafolio{
+  text-align: center;
 }
