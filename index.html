@@ -11,6 +11,12 @@
  	<script src="//use.typekit.net/zln8auc.js"></script>
 	<script>try{Typekit.load();}catch(e){}</script>
     <script src="js/vendor/modernizr.js"></script>
+
+  <script src="js/vendor/jquery.js"></script>
+  <script src="js/foundation/foundation.js"></script>
+  <script src="js/foundation/foundation.magellan.js"></script>
+
+
 	<title>Chingon Company</title>
 </head>
 <body>
@@ -34,7 +40,7 @@
 			<section class="top-bar-section">
 			    <!-- Right Nav Section -->
 			    <ul class="right">
-			      <li><a href="#">EQUIPO</a></li>
+			      <li data-magellan-arrival="quees"><a href="#quees">EQUIPO</a></li>
 			      <li><a href="#">SERVICIOS</a></li>
 			      <li><a href="#">PORTAFOLIO</a></li>
 			      <li><a href="#">CONTACTO</a></li>
@@ -42,6 +48,18 @@
 				</nav>
 		    	</header>
 		    	</div>
+
+<div data-magellan-expedition="fixed">
+  <dl class="sub-nav">
+    <dd data-magellan-arrival="quees"><a href="#quees">Equipo</a></dd>
+    <dd data-magellan-arrival="disenoweb"><a href="#disenoweb">Desarrollo Web</a></dd>
+    <dd data-magellan-arrival="identidadgrafica"><a href="#identidadgrafica">Identidad Gráfica</a></dd>
+    <dd data-magellan-arrival="marketingonline"><a href="#marketingonline">Marketing Online</a></dd>
+    <dd data-magellan-arrival="portafolio"><a href="#portafolio">Portafolio</a></dd>
+    <dd data-magellan-arrival="contacto"><a href="#contacto">Contacto</a></dd>
+
+  </dl>
+</div>
 
 				<section id="displaytable" class="row">
 					<section id="displaytable" class="small-12 medium-12 large-12 columns">
@@ -59,7 +77,8 @@
 	<section id="section-contenido" class="section-equipo">
 	<section class="row">
 			<section class="small-12 medium-6 large-8 large-centered columns animated fadeInUp">
-				<h2>¿Qué es "Chingona Design"?</h2>
+				<a name="quees"></a>
+				<h2 data-magellan-destination="quees">¿Qué es "Chingona Design"?</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -74,7 +93,8 @@
 		<section id="section-contenido" class="section-desarrolloweb">
 	<section class="row">
 			<section class="small-12 medium-6 large-6 large-offset-6 columns animated fadeInUp">
-				<h2>Diseño y Desarrollo Web</h2>
+				<a name="disenoweb"></a>
+				<h2 data-magellan-destination="disenoweb">Diseño y Desarrollo Web</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -89,7 +109,8 @@
 			<section id="section-contenido" class="section-identidadgrafica">
 	<section class="row">
 			<section class="small-12 medium-6 large-6 columns animated fadeInUp">
-				<h2>Identidad Gráfica</h2>
+												<a name="identidadgrafica"></a>
+<h2 data-magellan-destination="identidadgrafica">Identidad Gráfica</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -103,8 +124,9 @@
 
 			<section id="section-contenido" class="section-marketing">
 	<section class="row">
+				<a name="marketingonline"></a>
 			<section class="small-12 medium-6 large-6 large-offset-6 columns animated fadeInUp">
-				<h2>Marketing Online</h2>
+				<h2 data-magellan-destination="marketingonline">Marketing Online</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -119,7 +141,8 @@
 	<section id="section-contenido" class="section-portafolio">
 	<section class="row">
 			<section class="small-12 medium-12 large-12 columns">
-				<h2 span="text-align=center">Nuestros Últimos Trabajos</h2>
+				<a name="portafolio"></a>
+				<h2 data-magellan-destination="portafolio">Nuestros Últimos Trabajos</h2>
 				<p>A la medida de las necesidades</p>
 					<ul class="small-block-grid-2 medium-block-grid-4 large-block-grid-4">
 					 <li><img src="img/portafolio.jpg"></li>
@@ -138,7 +161,8 @@
 
 	<section id="section-contenido" class="section-contacto">
 	<section class="row">
-		<h2>Contacto</h2>
+		<a name="contacto"></a>
+		<h2 data-magellan-destination="contacto">Contacto</h2>
 		<section class="small-12 medium-12 large-7 columns"><i>Contenido</i></section>
 	    <div class="large-5 columns">
 	        <input type="text" placeholder="Nombre y Apellido" /></text>
