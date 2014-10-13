@@ -6323,9 +6323,12 @@ padding: 10px 0;
 
 .section-desarrolloweb{
   text-align: left;
-  background: url(http://riotdesign.eu/assets/img/webdev-bg.png);
-  background-position: center;
-    color: white;
+  background: url(http://riotdesign.eu/assets/img/bg-about.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
 }
 .section-desarrolloweb h2{
     color: white;
