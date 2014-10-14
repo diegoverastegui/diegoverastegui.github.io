@@ -1,0 +1,13 @@
+site-wrapper{
+	background: red;
+}
+
+body {
+	color: #424b51;
+}
+
+h2{
+	font-family: "museo",serif;
+	font-style: normal;
+	font-weight: 100;
+}
