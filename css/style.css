@@ -12,6 +12,11 @@ body {
 	-webkit-font-smoothing: auto !important;
 }
 
+p{
+	font-weight: 300;
+	font-size: 2rem;
+}
+
 h1, h2, h3{
 	font-family: "museo",serif;
 	font-style: normal;
