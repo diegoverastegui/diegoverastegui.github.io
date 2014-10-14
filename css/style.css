@@ -9,7 +9,7 @@ body {
 	font-weight: 300;
 	font-size: 1.4rem;
 	text-rendering: optimizeLegibility !important;
-	-webkit-font-smoothing: antialiased !important;
+	-webkit-font-smoothing: auto !important;
 }
 
 h1, h2, h3{
