@@ -4,6 +4,9 @@ site-wrapper{
 
 body {
 	color: #424b51;
+	font-family: "lato",sans-serif;
+	font-style: normal;
+	font-weight: 100;
 }
 
 h1, h2, h3{
