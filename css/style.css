@@ -18,6 +18,13 @@ h1, h2, h3{
 	font-weight: 300;
 }
 
+hr {
+margin-top: 1.5rem;
+margin-bottom: 0;
+border: 0;
+border-top: 1px solid #eee;
+}
+
 .section-portafolio{
 	background: #F9F9F9;
 	padding: 2rem 0;
