@@ -17,3 +17,8 @@ h1, h2, h3{
 	font-style: normal;
 	font-weight: 300;
 }
+
+.section-portafolio{
+	background: #F9F9F9;
+	padding: 2rem 0;
+}
