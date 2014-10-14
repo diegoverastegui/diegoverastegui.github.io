@@ -7,7 +7,7 @@ body {
 	font-family: "lato",sans-serif;
 	font-style: normal;
 	font-weight: 300;
-	font-size: 1.4rem;
+	font-size: 2rem;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: auto !important;
 }
@@ -38,4 +38,7 @@ border-top: 1px solid #eee;
 .section-portafolio{
 	background: #F9F9F9;
 	padding: 2.5rem 0;
+}
+
+.portafolio img{
 }
