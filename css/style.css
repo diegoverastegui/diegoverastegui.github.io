@@ -45,6 +45,24 @@ border-top: 1px solid #eee;
 	padding: 2.5rem 0;
 }
 
+.section-llamadacontacto{
+	background: #F9F9F9;
+	padding: 5rem 0;
+	background: black;
+	width: 100%;
+	background-image: url(http://www.dotlogics.com/images/contct_ban.jpg);
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.section-llamadacontacto p{
+		font-size: 2.6rem;
+		color: white;
+}
+
 .section-contacto{
 background-color: white;
 	-webkit-background-size: cover;
@@ -58,4 +76,8 @@ background-color: white;
 	padding-right: 0;
 padding-left: 0px;
 width: 100%;
+}
+
+footer p{
+	font-size: 1.5rem
 }
