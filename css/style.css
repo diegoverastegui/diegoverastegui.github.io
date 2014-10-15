@@ -45,6 +45,15 @@ border-top: 1px solid #eee;
 	padding: 2.5rem 0;
 }
 
+.section-contacto{
+background-color: white;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+ 	padding: 2.5rem 0;
+  }
+
 .portafolio img{
 	padding-right: 0;
 padding-left: 0px;
