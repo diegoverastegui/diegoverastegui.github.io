@@ -27,6 +27,12 @@ border: 0;
 border-top: 1px solid #eee;
 }
 
+.btn-primary {
+color: #fff;
+background-color: #FFD500;
+border-color: #FFD500;
+}
+
 .portada{
 	background: 
 }
