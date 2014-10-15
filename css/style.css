@@ -27,6 +27,10 @@ border: 0;
 border-top: 1px solid #eee;
 }
 
+.portada{
+	background: 
+}
+
 .section-equipo{
 	background: white;
 	padding: 2.5rem 0;
@@ -36,6 +40,21 @@ border-top: 1px solid #eee;
 	background: white;
 	padding: 2.5rem 0;
 }
+
+
+.descansotexto{
+	background: #424b51;
+	padding: 7rem 0;
+}
+
+.descansotexto p{
+	color:rgb(244, 244, 244);
+	font-size: 3rem;
+	font-weight: 100;
+	padding: 0;
+	margin: 0;
+}
+
 
 .section-portafolio{
 	background: #F9F9F9;
@@ -73,6 +92,7 @@ background-color: white;
 padding-left: 0px;
 width: 100%;
 }
+
 
 footer p{
 	font-size: 1.5rem
