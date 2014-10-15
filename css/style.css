@@ -17,6 +17,7 @@ h1, h2, h3{
 	font-family: "museo",serif;
 	font-style: normal;
 	font-weight: 300;
+	margin:0;
 }
 
 hr {
