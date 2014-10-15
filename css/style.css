@@ -46,4 +46,7 @@ border-top: 1px solid #eee;
 }
 
 .portafolio img{
+	padding-right: 0;
+padding-left: 0px;
+width: 100%;
 }
