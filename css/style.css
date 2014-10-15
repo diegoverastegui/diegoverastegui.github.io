@@ -3,14 +3,13 @@ body {
 	font-family: "lato",sans-serif;
 	font-style: normal;
 	font-weight: 300;
-	font-size: 1.8rem;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: auto !important;
 }
 
 p{
 	font-weight: 300;
-	font-size: 1.8rem;
+	font-size: 1.6rem;
 }
 
 h1, h2, h3{
