@@ -33,12 +33,12 @@ border-top: 1px solid #eee;
 
 .section-equipo{
 	background: white;
-	padding: 2.5rem 0;
+	padding: 6rem 0;
 }
 
 .section-servicios{
 	background: white;
-	padding: 2.5rem 0;
+	padding: 6rem 0;
 }
 
 
@@ -58,7 +58,7 @@ border-top: 1px solid #eee;
 
 .section-portafolio{
 	background: #F9F9F9;
-	padding: 2.5rem 0;
+	padding: 6rem 0;
 }
 
 .section-llamadacontacto{
@@ -84,7 +84,7 @@ background-color: white;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
- 	padding: 2.5rem 0;
+ 	padding: 6rem 0;
   }
 
 .portafolio img{
