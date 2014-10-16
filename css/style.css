@@ -159,3 +159,7 @@ footer p{
 .effects {
 padding-left: 0;
 }
+
+.effects .img:nth-child(n) {
+margin-right: 0;
+}
