@@ -38,21 +38,23 @@ background-color: #FFD500;
 border-color: #FFD500;
 }
 
-.portada{
+.portada {
 	display: table;
 	height: 380px;
 	width: 100%;
 	background: #FFD500;
+	background: url(http://riotdesign.eu/assets/img/home-slider/bg-goodssolutions.jpg);
+	background-size: cover;
+	background-attachment: fixed;
 }
-
 .barmenu{
 	padding: 0;
 }
 
 nav.navbar.navbar-default {
-width: 100%;
-background: transparent;
-border: 0;
+	width: 100%;
+	background: transparent;
+	border: 0;
 }
 
 .navbar-default .navbar-nav>li>a{
