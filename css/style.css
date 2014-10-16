@@ -163,3 +163,7 @@ padding-left: 0;
 .effects .img:nth-child(n) {
 margin-right: 0;
 }
+
+.col-xs-12.col-md-12.col-lg-12 {
+padding: 0;
+}
