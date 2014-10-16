@@ -13,6 +13,11 @@ p{
 	margin-top: -0.5rem;
 }
 
+
+.navbar-default{
+	position: absolute;
+}
+
 h1, h2, h3{
 	font-family: "museo",serif;
 	font-style: normal;
@@ -34,7 +39,16 @@ border-color: #FFD500;
 }
 
 .portada{
-	background: 
+	display: table;
+	height: 380px;
+	width: 100%;
+	background: #FFD500;
+}
+
+.displaytable{
+	display: table-cell;
+	vertical-align: middle;
+
 }
 
 .section-equipo{
@@ -60,7 +74,6 @@ border-color: #FFD500;
 	padding: 0;
 	margin: 0;
 }
-
 
 .section-portafolio{
 	background: #F9F9F9;
