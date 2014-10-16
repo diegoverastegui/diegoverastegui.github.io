@@ -245,7 +245,7 @@ a.expand {
     width: 50%;
   }
   .effects .img:nth-child(n) {
-    margin-right: 5px;
+    margin-right: 0px;
   }
   .effects .img:first-child {
     margin-left: 0;
