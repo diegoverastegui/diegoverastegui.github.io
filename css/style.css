@@ -61,6 +61,7 @@ border: 0;
 	font-family: "lato",serif;
 }
 
+
 .displaytable{
 	display: table-cell;
 	vertical-align: middle;
@@ -139,4 +140,14 @@ footer p{
 
 .iconoservicios{
 	font-size: 9rem;
+	transition-property:all;
+	transition-duration:0.2s;
+	transition-timing-function:ease-in-out;
+
+}
+
+.iconoservicios:hover{
+	font-size: 11rem;
+	color: #FFD500;
+	margin-top: -1rem;
 }
