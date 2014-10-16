@@ -155,11 +155,3 @@ footer p{
 .effects .img:nth-child(n) {
 margin-right: 0px;
 }
-
-
-.effects .img{
-	width: 100%;
-	@media (min-width: @screen-lg-min) {
-		width: 33%;
-	 }
-}
