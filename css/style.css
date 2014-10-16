@@ -155,3 +155,7 @@ footer p{
 .effects .img{
 	width: 33%;
 }
+
+.effects {
+padding-left: 0;
+}
