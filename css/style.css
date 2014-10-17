@@ -20,9 +20,9 @@ p{
 }
 
 h1, h2, h3{
-	font-family: "museo",serif;
-	font-style: normal;
-	font-weight: 300;
+	font-family: "raleway",sans-serif;
+font-style: normal;
+font-weight: 100;
 	margin:1rem 0;
 }
 
@@ -52,7 +52,7 @@ border-color: #FFD500;
 .portada h1 {
 font-size: 3rem;
 color: white;
-font-family: "museo";
+font-family: "raleway";
 }
 
 .barmenu{
