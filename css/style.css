@@ -47,6 +47,13 @@ border-color: #FFD500;
 	background-size: cover;
 	background-attachment: fixed;
 }
+
+.portada h1 {
+font-size: 3rem;
+color: white;
+font-family: "museo";
+}
+
 .barmenu{
 	padding: 0;
 }
