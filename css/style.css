@@ -14,9 +14,25 @@ p{
 	margin-top: -0.5rem;
 }
 
+.top-nav-collapse{
+	background-color: rgba(0, 0, 0, 0.97);
+}
 
 .navbar-default{
 	position: absolute;
+}
+
+.navbar{
+	background: rgba(0, 0, 0, 0.71);
+}
+
+#servicios{
+}
+#portafolio{
+}
+#equipo{
+}
+#contacto{
 }
 
 h1, h2, h3{
@@ -151,6 +167,8 @@ footer p{
 .input-lg{
 	font-size:1.4rem;
 }
+
+
 
 .iconoservicios{
 	font-size: 9rem;
