@@ -187,6 +187,8 @@ margin-right: 0px;
 .intro .intro-body {
     display: table-cell;
     vertical-align: middle;
+    background: url(http://bigdropinc.com/wp-content/themes/bd/images/home/mask.png);
+
 }
 
 .intro .intro-body .brand-heading {
