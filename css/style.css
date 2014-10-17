@@ -61,7 +61,7 @@ font-family: "museo";
 
 nav.navbar.navbar-default {
 	width: 100%;
-	background: transparent;
+	background: rgba(0, 0, 0, 0.5);
 	border: 0;
 }
 
