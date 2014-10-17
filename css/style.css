@@ -181,6 +181,7 @@ margin-right: 0px;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    background-position: fixed;
 }
 
 .intro .intro-body {
