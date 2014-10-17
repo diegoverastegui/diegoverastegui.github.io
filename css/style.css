@@ -55,6 +55,10 @@ color: white;
 font-family: "raleway";
 }
 
+.portada p {
+font-family: raleway;
+font-weight: 500;
+
 .barmenu{
 	padding: 0;
 }
@@ -197,6 +201,9 @@ margin-right: 0px;
 
 .intro .intro-body .intro-text {
     font-size: 18px;
+	font-family: "raleway",sans-serif;
+font-style: normal;
+font-weight: 500;
 }
 
 @media(min-width:767px) {
