@@ -514,3 +514,13 @@ body {
     font-weight: bolder;
     text-transform: uppercase;
 }
+
+/* Required */
+
+.hidden{
+    opacity: 0;
+}
+
+.visible{
+    opacity: 1;
+}
