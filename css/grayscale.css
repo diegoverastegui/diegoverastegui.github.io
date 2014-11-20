@@ -271,11 +271,47 @@ a:focus {
     padding-top: 50px;
 }
 
+.servicios-web-section {
+    width: 100%;
+    padding: 50px 0;
+    color: #333;
+    background: #fbfbfb;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.servicios-apps-section {
+    width: 100%;
+    padding: 50px 0;
+    color: #333;
+    background: white;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.servicios-marketing-section {
+    width: 100%;
+    padding: 50px 0;
+    color: #333;
+    background: #fbfbfb;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 .servicios-branding-section {
     width: 100%;
     padding: 50px 0;
     color: #333;
-    background: #f7f9fb;
+    background: white;
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -309,7 +345,7 @@ a:focus {
 }
 
 .servicios-section {
-    padding: 60px 0;
+    padding: 40px 0;
 }
 
 .cafes-section {
@@ -544,5 +580,13 @@ body {
 
 .descripcion-servicios h2{
     margin-bottom: 1rem;
+    color: #424b51;
 }
+
+.descripcion-servicios p{
+    font-size: 2rem;
+    line-height: 1.4em;
+    color: #424b51;
+}
+
 
